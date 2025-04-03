@@ -19,7 +19,14 @@ print("\x1b[38;5;117m  9\x1b[38;5;231m - Sms Onay Checker   | \x1b[1;32m aktif �
 print("\x1b[38;5;117m  10\x1b[38;5;231m - D - Smart  Checker   | \x1b[1;32m aktif ✅")
 print("\x1b[38;5;117m  11\x1b[38;5;231m - Facebook Checker   | \x1b[1;32m aktif ✅")
 print("\x1b[38;5;117m  12\x1b[38;5;231m - Instagram Checker   | \x1b[1;32m aktif ✅")
+print("\x1b[38;5;117m  13\x1b[38;5;231m - NBA Checker   | \x1b[1;32m aktif ✅")
+print("\x1b[38;5;117m  14\x1b[38;5;231m - Nesine Checker   | \x1b[1;32m aktif ✅")
+print("\x1b[38;5;117m  15\x1b[38;5;231m - Tonguç Checker   | \x1b[1;32m aktif ✅")
+print("\x1b[38;5;117m  16\x1b[38;5;231m - Zula Checker   | \x1b[1;32m aktif ✅")
+print("\x1b[38;5;117m  17\x1b[38;5;231m - s2gepin Checker   | \x1b[1;32m aktif ✅")
+print("\x1b[38;5;117m  18\x1b[38;5;231m - autofıcatıons Checker   | \x1b[1;32m aktif ✅")
 
+	
 
 
 def shelby():
@@ -37,8 +44,13 @@ def shelby():
         "9": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/smsonay-7_ninjapy.py",
         "10": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/Dsamart_ninjapy.py",
         "11": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/Facebok%20%3B8%20bbvv_ninjapy.py",
-        "12": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/ig%2C_chcker_ninjapy.py"
-        
+        "12": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/ig%2C_chcker_ninjapy.py",
+        "13": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/NBA%20y_ninjapy.py",
+        "14": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/Nesine-6_ninjapy.py",
+        "15": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/Tomguc_ninjapy.py",
+        "16": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/ZuLa-Checker1%20_ninjapy.py",
+        "17": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/s2gepin-checker_ninjapy.py",
+        "18": "https://raw.githubusercontent.com/t9omas/V1-Project/refs/heads/main/autof%C4%B1cat%C4%B1ons6_ninjapy.py"
     }
     
     if secim in baglantilar:
